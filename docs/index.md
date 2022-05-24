@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ---
 layout: page-with-side-nav
 title: Installatie
